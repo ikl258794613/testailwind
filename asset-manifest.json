@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/testailwind/static/css/main.2190264a.chunk.css",
+    "main.js": "/testailwind/static/js/main.c6163281.chunk.js",
+    "main.js.map": "/testailwind/static/js/main.c6163281.chunk.js.map",
+    "runtime-main.js": "/testailwind/static/js/runtime-main.c87772e3.js",
+    "runtime-main.js.map": "/testailwind/static/js/runtime-main.c87772e3.js.map",
+    "static/js/2.0a90f4f5.chunk.js": "/testailwind/static/js/2.0a90f4f5.chunk.js",
+    "static/js/2.0a90f4f5.chunk.js.map": "/testailwind/static/js/2.0a90f4f5.chunk.js.map",
+    "static/js/3.d8ad69a3.chunk.js": "/testailwind/static/js/3.d8ad69a3.chunk.js",
+    "static/js/3.d8ad69a3.chunk.js.map": "/testailwind/static/js/3.d8ad69a3.chunk.js.map",
+    "index.html": "/testailwind/index.html",
+    "static/css/main.2190264a.chunk.css.map": "/testailwind/static/css/main.2190264a.chunk.css.map",
+    "static/js/2.0a90f4f5.chunk.js.LICENSE.txt": "/testailwind/static/js/2.0a90f4f5.chunk.js.LICENSE.txt",
+    "static/media/Rectanglepeople.50cf87e3.png": "/testailwind/static/media/Rectanglepeople.50cf87e3.png",
+    "static/media/Rectangleww.e40b6b81.png": "/testailwind/static/media/Rectangleww.e40b6b81.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c87772e3.js",
+    "static/js/2.0a90f4f5.chunk.js",
+    "static/css/main.2190264a.chunk.css",
+    "static/js/main.c6163281.chunk.js"
+  ]
+}
